@@ -12,11 +12,11 @@ You’ll make the following updates to the provided Python file for this assignm
 3. Add Relevant User Inputs to the Streamlit interface.
 
 4. Test the PyChain Ledger by Storing Records.
-## Streamlit
+## About Streamlit ...
 Founded in 2018, Streamlit is an open-source Python library that makes creating and sharing custom web apps way easier for machine learning and data science projects. It allows engineers to quickly build highly interactive web applications around their data and machine learning models. Streamlit is more than just a way to make data apps, it's also a community of creators that share their apps and ideas and help each other make their work better.  
 A major advantage of Streamlit is its quick and easy development flow and perhaps the biggest downside of it are its speed issues.  
 
-## PyChain Ledger - Streamlit Application Page
+## Results: PyChain Ledger - Streamlit Application Page
 ![atousa_pychain_ledger](https://user-images.githubusercontent.com/93611442/160741648-4e2851e9-36b0-43b0-af2f-9e16b344d38d.jpg)
 
 ## Resources
